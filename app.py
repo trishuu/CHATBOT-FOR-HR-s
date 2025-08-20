@@ -7,7 +7,7 @@ from typing import List, Optional
 import json
 from sentence_transformers import SentenceTransformer, util
 
-app = FastAPI(title="HR Resource Chatbot API",
+app = FastAPI(title="HR Chatbot API",
               description="API for searching and recommending employees")
 
 # Enable CORS
