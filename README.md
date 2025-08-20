@@ -128,9 +128,6 @@ Response:
 - **Port Configuration**: Manual debugging of localhost port conflicts
 - **Browser Cache Issues**: Manual identification of cached resource problems
 
-
-## Technical Decisions
-
 ### Model Selection: SentenceTransformers vs OpenAI
 **Chosen**: SentenceTransformers (all-MiniLM-L6-v2)
 - **Pros**: Free, runs locally, good performance for similarity tasks, no API costs
