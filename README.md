@@ -123,24 +123,18 @@ Response:
 - **Role**: Code generation, debugging, architecture decisions, documentation
 
 ### AI Assistance Breakdown
-- **Code Generation**: ~80% AI-assisted
+- **Code Generation**: 
   - FastAPI endpoint structure
   - Frontend HTML/CSS/JavaScript
   - Error handling patterns
-- **Debugging**: ~90% AI-assisted
+- **Debugging**: 
   - CORS issues resolution
   - Static file serving problems
   - JavaScript error fixes
-- **Architecture Decisions**: ~70% AI-guided
+- **Architecture Decisions**: 
   - Technology stack selection
   - API design patterns
   - File structure organization
-
-### AI-Generated Solutions
-1. **Semantic Search Implementation**: AI suggested using SentenceTransformers with cosine similarity
-2. **Fallback Mechanism**: AI recommended simple text matching when model unavailable
-3. **Error Handling**: AI generated comprehensive try-catch blocks and HTTP exception handling
-4. **Frontend Integration**: AI created the embedded CSS/JS solution to avoid static file issues
 
 ### Manual Problem Solving
 - **Data Structure Mismatch**: Manually identified and fixed `projects` vs `past_projects` field inconsistency
