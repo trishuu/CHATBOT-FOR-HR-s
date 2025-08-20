@@ -1,5 +1,5 @@
 # HR Resource Chatbot API
-https://github.com/user-attachments/assets/1707dd4b-064a-4cb2-ad9c-0f17c7a846b2
+https://github.com/user-attachments/assets/5cb3d895-2124-47f3-94e1-295425be83d3
 ## Overview
 
 The HR Resource Query Chatbot is an intelligent employee search system that allows HR professionals to find suitable candidates using natural language queries. The system uses semantic similarity matching powered by SentenceTransformers to understand queries like "Find Python developers with 3+ years experience" and returns relevant employee profiles from the database.
