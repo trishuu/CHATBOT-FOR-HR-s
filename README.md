@@ -116,26 +116,6 @@ Response:
 }
 ```
 
-## AI Development Process
-
-### AI Tools Used
-- **Amazon Q Developer**: Primary AI coding assistant (95% of development)
-- **Role**: Code generation, debugging, architecture decisions, documentation
-
-### AI Assistance Breakdown
-- **Code Generation**: 
-  - FastAPI endpoint structure
-  - Frontend HTML/CSS/JavaScript
-  - Error handling patterns
-- **Debugging**: 
-  - CORS issues resolution
-  - Static file serving problems
-  - JavaScript error fixes
-- **Architecture Decisions**: 
-  - Technology stack selection
-  - API design patterns
-  - File structure organization
-
 ### Manual Problem Solving
 - **Data Structure Mismatch**: Manually identified and fixed `projects` vs `past_projects` field inconsistency
 - **Port Configuration**: Manual debugging of localhost port conflicts
